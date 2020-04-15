@@ -2,8 +2,8 @@ title: AI/ML Conference Deadlines
 description: Countdowns to international AI/ML conferences deadlines
 author: Benjamin Guedj
 
-domain: "https://bguedj.github.io/ai-deadlines/"
-baseurl: "https://bguedj.github.io/ai-deadlines/"
+domain: "https://bguedj.github.io/ai-deadlines"
+baseurl: ""
 
 twitter_username: bguedj
 twitter_hashtag: machinelearning
