@@ -7,7 +7,9 @@
 #   sub: NLP
 # - name: Robotics
 #   sub: RO
-# - name: Speech/SigProc
-#   sub: SP
-- name: Data Mining
-  sub: DM
+- name: Artificial Intelligence
+  sub: AI
+- name: Statistics
+  sub: ST
+- name: Others
+  sub: OT

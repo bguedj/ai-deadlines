@@ -9,7 +9,7 @@
   timezone: UTC-12
   date: September 22-26, 2020
   place: Rio de Janeiro, Brazil
-  sub: DM
+  sub: ST
   note: '<b>NOTE</b>: Mandatory abstract deadline on Apr 27, 2020. More info <a href=''https://recsys.acm.org/recsys20/dates/''>here</a>.'
 
 - title: NeurIPS
@@ -162,7 +162,7 @@
   timezone: UTC-11
   date: August 22-27, 2020
   place: San Diego, California, USA
-  sub: DM
+  sub: ST
 
 - title: UAI
   year: 2020
