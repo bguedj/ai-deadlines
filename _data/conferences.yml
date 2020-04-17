@@ -24,16 +24,6 @@
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on May 05, 2020.'
 
-- title: GECCO
-  year: 2019
-  id: gecco19
-  link: https://gecco-2019.sigevo.org/index.html/tiki-index.php
-  deadline: '2019-01-30 23:59:59'
-  timezone: UTC-10
-  date: July 13 - 17, 2019
-  place: Prague, Czech Republic
-  sub: ML
-
 - title: AAAI
   year: 2020
   id: aaai20
@@ -74,18 +64,6 @@
   place: Palermo, Sicily, Italy
   sub: ML
 
-- title: AAMAS
-  year: 2020
-  id: aamas20
-  link: https://aamas2020.conference.auckland.ac.nz/
-  deadline: '2019-11-15 23:59:59'
-  abstract_deadline: '2019-11-12 23:59:59'
-  timezone: UTC-12
-  date: May 9-13, 2020
-  place: Auckland, New Zealand
-  sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Nov 12, 2019. More info <a href=''https://aamas2020.conference.auckland.ac.nz/call-for-papers/''>here</a>.'
-
 - title: ECAI
   year: 2020
   id: ecai20
@@ -97,28 +75,6 @@
   place: Santiago de Compostella, Spain
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on Nov 15, 2019. More info <a href=''http://ecai2020.eu/call-for-papers/mainconference/''>here</a>.'
-
-- title: ICAPS
-  year: 2020
-  id: icaps20
-  link: https://icaps20.icaps-conference.org/
-  deadline: '2019-11-20 23:59:59'
-  abstract_deadline: '2019-11-15 23:59:59'
-  timezone: UTC-12
-  date: June 14-19, 2020
-  place: Nancy, France
-  sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Nov 15, 2019. More info <a href=''https://icaps20.icaps-conference.org/''>here</a>.'
-
-- title: CHIL
-  year: 2020
-  id: chil20
-  link: http://www.chilconference.org/
-  deadline: '2020-01-13 23:59:59'
-  timezone: UTC-12
-  date: April 2-4, 2020
-  place: Toronto, Canada
-  sub: ML
 
 - title: IJCAI-PRICAI
   year: 2020
@@ -172,16 +128,6 @@
   timezone: UTC+1
   date: August 3-6, 2020
   place: Toronto, Canada
-  sub: ML
-
-- title: ICCC
-  year: 2020
-  id: iccc20
-  link: http://computationalcreativity.net/iccc20/
-  deadline: '2020-03-08 23:59:59'
-  timezone: UTC-12
-  date: June 29-July 3, 2020
-  place: Coimbra, Portugal
   sub: ML
 
 - title: ECML-PKDD
