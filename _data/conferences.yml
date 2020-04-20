@@ -1,143 +1,149 @@
 ---
 
-- title: RecSys
-  year: 2020
-  id: recsys20
-  link: https://recsys.acm.org/recsys20/
-  deadline: '2020-05-04 23:59:59'
-  abstract_deadline: '2020-04-27 23:59:59'
-  timezone: UTC-12
-  date: September 22-26, 2020
-  place: Rio de Janeiro, Brazil
-  sub: ST
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Apr 27, 2020. More info <a href=''https://recsys.acm.org/recsys20/dates/''>here</a>.'
-
 - title: NeurIPS
   year: 2020
   id: neurips20
   link: https://nips.cc/Conferences/2020
-  deadline: '2020-05-12 13:00:00'
-  abstract_deadline: '2020-05-05 13:00:00'
+  deadline: '2020-06-03 13:00:00'
+  abstract_deadline: '2020-05-27 13:00:00'
   timezone: America/Los_Angeles
   date: December 6-12, 2020
   place: Vancouver Convention Centre, Canada
   sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on May 05, 2020.'
+  note: '<b>NOTE</b>: Mandatory abstract deadline on May 27, 2020.'
 
-- title: AAAI
-  year: 2020
-  id: aaai20
-  link: https://aaai.org/Conferences/AAAI-20/
-  deadline: '2019-09-05 23:59:59'
-  timezone: UTC-10
-  date: February 7-12, 2020
-  place: New York, USA
-  sub: ML
+# - title: AAAI
+#   year: 2020
+#   id: aaai20
+#   link: https://aaai.org/Conferences/AAAI-20/
+#   deadline: '2019-09-05 23:59:59'
+#   timezone: UTC-10
+#   date: February 7-12, 2020
+#   place: New York, USA
+#   sub: ML
 
-- title: ALT
-  year: 2020
-  id: alt20
-  link: http://alt2020.algorithmiclearningtheory.org/
-  deadline: '2019-09-20 16:59:59'
-  timezone: America/New_York
-  date: February 08-10, 2020
-  place: San Diego, CA, United States
-  sub: ML
+# - title: ALT
+#   year: 2020
+#   id: alt20
+#   link: http://alt2020.algorithmiclearningtheory.org/
+#   deadline: '2019-09-20 16:59:59'
+#   timezone: America/New_York
+#   date: February 08-10, 2020
+#   place: San Diego, CA, United States
+#   sub: ML
 
-- title: ICLR
-  year: 2020
-  id: iclr20
-  link: http://iclr.cc/
-  deadline: '2019-09-25 17:59:59'
-  timezone: Africa/Nairobi
-  date: April 30, 2020
-  place: Online
-  sub: ML
+# - title: ICLR
+#   year: 2020
+#   id: iclr20
+#   link: http://iclr.cc/
+#   deadline: '2019-09-25 17:59:59'
+#   timezone: Africa/Nairobi
+#   date: April 30, 2020
+#   place: Online
+#   sub: ML
 
-- title: AISTATS
-  year: 2020
-  id: aistats20
-  link: https://www.aistats.org/
-  deadline: '2019-10-08 23:59:59'
-  timezone: America/Los_Angeles
-  date: June 3-5, 2020
-  place: Palermo, Sicily, Italy
-  sub: ML
+# - title: AISTATS
+#   year: 2020
+#   id: aistats20
+#   link: https://www.aistats.org/
+#   deadline: '2019-10-08 23:59:59'
+#   timezone: America/Los_Angeles
+#   date: June 3-5, 2020
+#   place: Palermo, Sicily, Italy
+#   sub: ML
 
-- title: ECAI
-  year: 2020
-  id: ecai20
-  link: http://ecai2020.eu/
-  deadline: '2019-11-19 23:59:59'
-  abstract_deadline: '2019-11-15 23:59:59'
-  timezone: UTC-12
-  date: June 8-12, 2020
-  place: Santiago de Compostella, Spain
-  sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Nov 15, 2019. More info <a href=''http://ecai2020.eu/call-for-papers/mainconference/''>here</a>.'
+# - title: ECAI
+#   year: 2020
+#   id: ecai20
+#   link: http://ecai2020.eu/
+#   deadline: '2019-11-19 23:59:59'
+#   abstract_deadline: '2019-11-15 23:59:59'
+#   timezone: UTC-12
+#   date: June 8-12, 2020
+#   place: Santiago de Compostella, Spain
+#   sub: ML
+#   note: '<b>NOTE</b>: Mandatory abstract deadline on Nov 15, 2019. More info <a href=''http://ecai2020.eu/call-for-papers/mainconference/''>here</a>.'
 
-- title: IJCAI-PRICAI
-  year: 2020
-  id: ijcai-pricai20
-  link: https://www.ijcai20.org/
-  deadline: '2020-01-21 23:59:59'
-  abstract_deadline: '2020-01-15 23:59:59'
-  timezone: UTC-12
-  date: July 11-17, 2020
-  place: Yokohama, Japan
-  sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 15, 2020. More info <a href=''https://www.ijcai19.org/''>here</a>.'
+# - title: IJCAI-PRICAI
+#   year: 2020
+#   id: ijcai-pricai20
+#   link: https://www.ijcai20.org/
+#   deadline: '2020-01-21 23:59:59'
+#   abstract_deadline: '2020-01-15 23:59:59'
+#   timezone: UTC-12
+#   date: July 11-17, 2020
+#   place: Yokohama, Japan
+#   sub: ML
+#   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 15, 2020. More info <a href=''https://www.ijcai19.org/''>here</a>.'
 
-- title: COLT
-  year: 2020
-  id: colt20
-  link: http://www.learningtheory.org/colt2020/
-  date: June 8-12, 2020
-  deadline: '2020-01-31 16:00:00'
-  timezone: America/Los_Angeles
-  place: Graz, Austria
-  sub: ML
+# - title: ESANN
 
-- title: ICML
-  year: 2020
-  id: icml20
-  link: https://icml.cc/Conferences/2020
-  deadline: '2020-02-06 23:59:00'
-  abstract_deadline: '2020-01-30 23:59:00'
-  timezone: UTC-12
-  date: July 12-18, 2020
-  place: Online
-  sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 30, 2020. More info <a href=''https://icml.cc/Conferences/2020/CallForPapers''>here</a>.'
+# - title: ICIP
 
-- title: KDD
-  year: 2020
-  id: kdd20
-  link: https://www.kdd.org/kdd2020/
-  deadline: '2020-02-13 23:59:59'
-  timezone: UTC-11
-  date: August 22-27, 2020
-  place: San Diego, California, USA
-  sub: ST
+# - title: COLT
+#   year: 2020
+#   id: colt20
+#   link: http://www.learningtheory.org/colt2020/
+#   date: June 8-12, 2020
+#   deadline: '2020-01-31 16:00:00'
+#   timezone: America/Los_Angeles
+#   place: Graz, Austria
+#   sub: ML
 
-- title: UAI
-  year: 2020
-  id: uai20
-  link: http://auai.org/uai2020/
-  deadline: '2020-02-20 23:59:59'
-  timezone: UTC+1
-  date: August 3-6, 2020
-  place: Toronto, Canada
-  sub: ML
+# - title: ICML
+#   year: 2020
+#   id: icml20
+#   link: https://icml.cc/Conferences/2020
+#   deadline: '2020-02-06 23:59:00'
+#   abstract_deadline: '2020-01-30 23:59:00'
+#   timezone: UTC-12
+#   date: July 12-18, 2020
+#   place: Online
+#   sub: ML
+#   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 30, 2020. More info <a href=''https://icml.cc/Conferences/2020/CallForPapers''>here</a>.'
 
-- title: ECML-PKDD
-  year: 2020
-  id: ecmlpkdd2020
-  link: https://ecmlpkdd2020.net/
-  deadline: '2020-04-02 23:59:59'
-  abstract_deadline: '2020-03-19 23:59:59'
-  timezone: UTC-12
-  date: September 14-18, 2020
-  place: Ghent, Belgium
-  sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Mar 19, 2020. More info <a href=''https://ecmlpkdd2020.net/submissions/deadlines/''>here</a>.'
+# - title: ACML
+#   year: 2020
+#   id: acml2020
+#   link:
+#   deadline:
+#   timezone:
+
+# - title: ECML
+#   year: 2020
+#   id: ecml2020
+#   link:
+#   deadline:
+#   timezone:
+
+# - title: KDD
+#   year: 2020
+#   id: kdd20
+#   link: https://www.kdd.org/kdd2020/
+#   deadline: '2020-02-13 23:59:59'
+#   timezone: UTC-11
+#   date: August 22-27, 2020
+#   place: San Diego, California, USA
+#   sub: ST
+
+# - title: UAI
+#   year: 2020
+#   id: uai20
+#   link: http://auai.org/uai2020/
+#   deadline: '2020-02-20 23:59:59'
+#   timezone: UTC+1
+#   date: August 3-6, 2020
+#   place: Toronto, Canada
+#   sub: ML
+
+# - title: ECML-PKDD
+#   year: 2020
+#   id: ecmlpkdd2020
+#   link: https://ecmlpkdd2020.net/
+#   deadline: '2020-04-02 23:59:59'
+#   abstract_deadline: '2020-03-19 23:59:59'
+#   timezone: UTC-12
+#   date: September 14-18, 2020
+#   place: Ghent, Belgium
+#   sub: ML
+#   note: '<b>NOTE</b>: Mandatory abstract deadline on Mar 19, 2020. More info <a href=''https://ecmlpkdd2020.net/submissions/deadlines/''>here</a>.'
