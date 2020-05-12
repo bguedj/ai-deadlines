@@ -22,15 +22,15 @@
 #   place: New York, USA
 #   sub: ML
 
-# - title: ALT
-#   year: 2020
-#   id: alt20
-#   link: http://alt2020.algorithmiclearningtheory.org/
-#   deadline: '2019-09-20 16:59:59'
-#   timezone: America/New_York
-#   date: February 08-10, 2020
-#   place: San Diego, CA, United States
-#   sub: ML
+- title: ALT
+  year: 2021
+  id: alt21
+  link: http://alt2021.algorithmiclearningtheory.org/
+  deadline: '2020-31-12 16:59:59'  # dummy deadline as it is not public yet
+  timezone: Europe/Paris
+  date: March 13-16, 2021
+  place: Paris, France
+  sub: ML
 
 # - title: ICLR
 #   year: 2020
