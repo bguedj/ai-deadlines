@@ -4,13 +4,24 @@
   year: 2020
   id: neurips20
   link: https://nips.cc/Conferences/2020
-  deadline: '2020-06-03 13:00:00'
+  deadline: '2020-06-05 13:00:00'
   abstract_deadline: '2020-05-27 13:00:00'
   timezone: America/Los_Angeles
   date: December 6-12, 2020
   place: Vancouver Convention Centre, Canada
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on May 27, 2020.'
+
+- title: SODA21
+  year: 2021
+  id: soda21
+  link: https://www.siam.org/conferences/cm/conference/soda21
+  deadline: '2020-07-15 16:59:59'
+  abstract_deadline: '2020-05-27 13:00:00'
+  timezone: America/New_York
+  date: January 10-13, 2020
+  place: Alexandria, Virginia, USA
+  sub: OT
 
 # - title: AAAI
 #   year: 2020
@@ -26,7 +37,7 @@
   year: 2021
   id: alt21
   link: http://alt2021.algorithmiclearningtheory.org/
-  deadline: '2020-31-12 16:59:59'  # dummy deadline as it is not public yet
+  deadline: '2020-12-31 13:00:00'  # dummy deadline as it is not public yet
   timezone: Europe/Paris
   date: March 13-16, 2021
   place: Paris, France
@@ -43,7 +54,7 @@
 #   sub: ML
 
 # - title: AISTATS
-#   year: 2020
+#   year: 2021
 #   id: aistats20
 #   link: https://www.aistats.org/
 #   deadline: '2019-10-08 23:59:59'
