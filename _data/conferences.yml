@@ -12,7 +12,7 @@
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on May 27, 2020.'
 
-- title: SODA21
+- title: SODA
   year: 2021
   id: soda21
   link: https://www.siam.org/conferences/cm/conference/soda21
@@ -23,15 +23,16 @@
   place: Alexandria, Virginia, USA
   sub: OT
 
-# - title: AAAI
-#   year: 2020
-#   id: aaai20
-#   link: https://aaai.org/Conferences/AAAI-20/
-#   deadline: '2019-09-05 23:59:59'
-#   timezone: UTC-10
-#   date: February 7-12, 2020
-#   place: New York, USA
-#   sub: ML
+- title: AAAI
+  year: 2021
+  id: aaai21
+  link: https://aaai.org/Conferences/AAAI-21/
+  deadline: '2020-09-09 23:59:59'
+  timezone: UTC-12
+  date: February 2-9, 2021
+  place: Vancouver, Canada
+  sub: AI
+  note: '<b>NOTES</b>: Abstract deadline Sept. 1, 2020, 11:59 PM UTC-12. Rejected NeurIPS papers can be submitted before Sept. 29, 2020, 11:59 PM UTC-12.'
 
 - title: ALT
   year: 2021
