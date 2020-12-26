@@ -12,6 +12,28 @@
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on May 27, 2020.'
 
+# - title: COLT
+#   year: 2020
+#   id: colt20
+#   link: http://www.learningtheory.org/colt2020/
+#   date: June 8-12, 2020
+#   deadline: '2020-01-31 16:00:00'
+#   timezone: America/Los_Angeles
+#   place: Graz, Austria
+#   sub: ML
+
+# - title: ICML
+#   year: 2020
+#   id: icml20
+#   link: https://icml.cc/Conferences/2020
+#   deadline: '2020-02-06 23:59:00'
+#   abstract_deadline: '2020-01-30 23:59:00'
+#   timezone: UTC-12
+#   date: July 12-18, 2020
+#   place: Online
+#   sub: ML
+#   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 30, 2020. More info <a href=''https://icml.cc/Conferences/2020/CallForPapers''>here</a>.'
+
 # - title: SODA
 #   year: 2021
 #   id: soda21
@@ -22,6 +44,16 @@
 #   date: January 10-13, 2020
 #   place: Alexandria, Virginia, USA
 #   sub: OT
+
+- title: UAI
+  year: 2021
+  id: uai21
+  link: http://auai.org/uai2021/
+  deadline: '2021-02-19 23:59:59'
+  timezone: UTC
+  date: July 27-30, 2021
+  place: Online
+  sub: ML
 
 - title: AAAI
   year: 2021
@@ -93,28 +125,6 @@
 
 # - title: ICIP
 
-# - title: COLT
-#   year: 2020
-#   id: colt20
-#   link: http://www.learningtheory.org/colt2020/
-#   date: June 8-12, 2020
-#   deadline: '2020-01-31 16:00:00'
-#   timezone: America/Los_Angeles
-#   place: Graz, Austria
-#   sub: ML
-
-# - title: ICML
-#   year: 2020
-#   id: icml20
-#   link: https://icml.cc/Conferences/2020
-#   deadline: '2020-02-06 23:59:00'
-#   abstract_deadline: '2020-01-30 23:59:00'
-#   timezone: UTC-12
-#   date: July 12-18, 2020
-#   place: Online
-#   sub: ML
-#   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 30, 2020. More info <a href=''https://icml.cc/Conferences/2020/CallForPapers''>here</a>.'
-
 # - title: ACML
 #   year: 2020
 #   id: acml2020
@@ -138,16 +148,6 @@
 #   date: August 22-27, 2020
 #   place: San Diego, California, USA
 #   sub: ST
-
-# - title: UAI
-#   year: 2020
-#   id: uai20
-#   link: http://auai.org/uai2020/
-#   deadline: '2020-02-20 23:59:59'
-#   timezone: UTC+1
-#   date: August 3-6, 2020
-#   place: Toronto, Canada
-#   sub: ML
 
 # - title: ECML-PKDD
 #   year: 2020
